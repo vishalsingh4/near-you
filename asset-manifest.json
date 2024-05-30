@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/near-you/static/css/main.a52aff63.css",
+    "main.js": "/near-you/static/js/main.973c9431.js",
+    "index.html": "/near-you/index.html",
+    "main.a52aff63.css.map": "/near-you/static/css/main.a52aff63.css.map",
+    "main.973c9431.js.map": "/near-you/static/js/main.973c9431.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a52aff63.css",
+    "static/js/main.973c9431.js"
+  ]
+}

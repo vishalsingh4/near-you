@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a52aff63.css","mappings":"AAAA,iBAGG,SACA,UCJH,eACG","sources":["index.scss","App.scss"],"sourcesContent":["*,\n::before,\n::after {\n   margin: 0;\n   padding: 0;\n}\n",".app-container {\n   background-color: lightblue;\n}\n"],"names":[],"sourceRoot":""}
